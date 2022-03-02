@@ -7,6 +7,8 @@ import cypher.CustomerDao;
 public class App {
 	public static void main(String args[]) throws SQLException {
 		int id;
+		
+		
 		String nameString;
 		Scanner scanner = new Scanner(System.in);
 		CustomerDao dao = new CustomerDao();
