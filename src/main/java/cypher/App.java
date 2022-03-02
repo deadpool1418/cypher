@@ -2,7 +2,6 @@ package cypher;
 
 import java.sql.SQLException;
 import java.util.Scanner;
-
 import cypher.CustomerDao;
 
 public class App {
